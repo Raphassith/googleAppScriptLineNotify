@@ -1,4 +1,4 @@
-function sendNoti(){
+function sendNotify(){
     // Text only.
     var msg = "";
     var token = "";
